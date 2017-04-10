@@ -1,0 +1,3 @@
+javac.sh
+org/apache/camel/example/etl/IntegrationTest.class
+org.codehaus.plexus.compiler.javac.JavacCompiler1185171946150300366arguments

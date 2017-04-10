@@ -1,0 +1,8 @@
+org/apache/camel/example/etl/Main.class
+org/apache/camel/example/etl/PersonDocument.class
+org.codehaus.plexus.compiler.javac.JavacCompiler2791637164813374643arguments
+org/apache/camel/example/etl/CustomerEntity.class
+org/apache/camel/example/etl/EtlRoutes.class
+org/apache/camel/example/etl/CustomerTransformer.class
+javac.sh
+org/apache/camel/example/etl/CustomerTransformer$1.class
