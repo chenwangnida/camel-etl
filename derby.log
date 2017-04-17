@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Mon Apr 10 16:05:41 NZST 2017:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015b-5609-e768-00000469fc20 
+Tue Apr 11 21:09:34 NZST 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-015b-5c46-7adc-00000aa52868 
 on database directory /Users/chenwang/Documents/workspace/camel-etl/target/derby with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
 Loaded from file:/Users/chenwang/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
 java.vendor=Oracle Corporation
@@ -12,5 +12,5 @@ os.version=10.12.2
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Apr 10 16:06:19 NZST 2017:
-Shutting down instance a816c00e-015b-5609-e768-00000469fc20 on database directory /Users/chenwang/Documents/workspace/camel-etl/target/derby with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
+Tue Apr 11 21:10:12 NZST 2017:
+Shutting down instance a816c00e-015b-5c46-7adc-00000aa52868 on database directory /Users/chenwang/Documents/workspace/camel-etl/target/derby with class loader sun.misc.Launcher$AppClassLoader@2a139a55 
